@@ -1,5 +1,5 @@
-print("Enter First Name")
-FirstName = input()
-print("Enter Second Name")
-SecondName = input()
-print("Hello " + FirstName+" " + SecondName)
+city = "Nairobi"
+print(city)
+
+MyCity = input("Enter your  city")
+print(MyCity)
