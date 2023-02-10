@@ -11,7 +11,7 @@ if number == 544:
     print("6;Storo data")
     print("7;Data Balance")
 
-number_2 = int(input("Select an option above"))
+    number_2 = int(input("Select an option above"))
 if number_2 == 1:
     print("Data deals")
 elif number_2 == 2:
@@ -27,4 +27,4 @@ elif number_2 == 6:
 elif number_2 == 7:
     print("Data Balance")
 else:
-    print("Invalid choice")
+     print("Invalid choice")
